@@ -1,7 +1,7 @@
 # Hey there, I'm Silvio 👋
 
 ## 🚀 About Me
-I'm a web developer focused on building innovative solutions, with experience in .NET applications, React, Azure, and API integration. Currently, I’m also exploring the data analytics field with Power BI and Tableau.
+I'm a web developer focused on building innovative solutions, with experience in .NET applications, React, Node.js ,Azure, and API integration. 
 
 ## 🛠️ Technologies and Tools
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
