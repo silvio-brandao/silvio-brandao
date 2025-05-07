@@ -1,7 +1,7 @@
 # Hey there, I'm Silvio 👋
 
 ## 🚀 About Me
-I'm a web developer focused on building innovative solutions, with experience in .NET applications, React, Node.js ,Azure, and API integration. 
+I'm a web developer focused on building innovative solutions, with experience in .NET applications, React, Node.js ,Azure, API integration and much more. 
 
 ## 🛠️ Technologies and Tools
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
